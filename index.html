@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>CHATBOT</title>
+      <!--Styling the fonts using Google Fonts-->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Patrick+Hand&display=swap" rel="stylesheet">
+      <!--Styling the Chat Bot-->
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+      <center>
+         <div class="head">
+         </div>
+         <div class="box">
+            <div class="title">
+               <h2>CHAT BOT</h2>
+            </div>
+            <br>
+            <h3 id="chatLog">HELLO, how can i help you?<br><br></h3>
+            <div style="text-align: center;"><input id="userBox" type="text" onkeydown="if(event.keyCode == 13){Chat()}"></div>
+            <br>   
+            <!--Adding the Functionalities with JavaScript--> 
+            <script src="index.js"></script> 
+            <br>
+         </div>
+      </center>
+   </body>
+</html>

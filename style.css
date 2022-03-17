@@ -1,0 +1,37 @@
+#chatLog{text-align: auto;
+    font-family: 'Patrick Hand', cursive;   
+}
+h2 {text-align: center;}
+body{
+  
+     background-image: url('images/cool-bg4.png');
+}
+.box{
+    width: 40%;
+    background-color: rgb(52, 99, 133);
+    height: auto;
+    border-radius: 10px;
+    margin: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: url('images/cool-background.png');
+}
+.input-box{
+    border-radius: 20px;
+}
+.head{
+    margin: 3%;
+}
+.title{
+    background-image: url('images/cool-bg2.png');
+    margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+#userBox{
+    border-radius: 10px;
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* background-image: url(); */
+}
