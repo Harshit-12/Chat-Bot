@@ -8,6 +8,6 @@ The Chat Bot responds to some basic queries whihc are like
     "harshit":"hi harshit",
     "bye":"see you soon",
     "are you free":"Always free to help you"
-
+![](Output%20for%20the%20Chat-Bot.png)
 We can coustomize it as per the requirements of the user.
 See Live : https://harshit-12.github.io/Chat-Bot/
